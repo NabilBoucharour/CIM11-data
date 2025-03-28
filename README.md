@@ -14,17 +14,6 @@ Il est conçu pour faciliter l'intégration des codes CIM-11 dans des projets de
   - **CSV** : Pour l'importation dans des bases de données et les traitements de données.  
   - **SQL** : Scripts pour l'insertion directe dans les systèmes de gestion de bases de données (SGBD).  
 
----
-
-## 🗺️ **Structure du Répertoire**
-
-├── data/
-│   ├── icd11-codes.json       # Codes et descriptions CIM-11 en format JSON
-│   ├── icd11-categories.csv   # Relations hiérarchiques en format CSV
-│   ├── icd11.sql              # Script SQL pour l’importation en base de données
-│   └── README.md              # Ce fichier
-
----
 
 ## 💾 **Installation**
 Clonez ce dépôt pour utiliser les données localement :
